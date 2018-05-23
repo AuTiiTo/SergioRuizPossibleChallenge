@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PossibleChallenge</string>
+    <string name="empty_state_message">No hay libros por mostrar</string>
+    <string name="error_message_string">Error Code: %s</string>
+</resources>
